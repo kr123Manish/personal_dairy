@@ -1,5 +1,5 @@
 ## <a href="https://presonal-dairy.netlify.app/">Overview</a>
-#### Create a website which store our text info, for saving info we used <a href="https://firebase.google.com/docs">firebase</a>
+#### Create a website which store our text info, for saving info we used <a href="https://firebase.google.com/docs/database">firebase</a>
 <img src="https://github.com/kr123Manish/presonal_dairy/blob/main/1.jpg"></img>
 <img src="https://github.com/kr123Manish/presonal_dairy/blob/main/2.jpg"></img>
 <img src="https://github.com/kr123Manish/presonal_dairy/blob/main/3.jpg"></img>
@@ -9,7 +9,7 @@
 - HTML-5
 - CSS
 - JavaScript
-- Basics of firbase realtime database.
+- <a href="https://firebase.google.com/docs/database/web/start">Basics of firbase realtime database.</a>
 ### Main Code
 ``` javascript
 var firebaseConfig = {
