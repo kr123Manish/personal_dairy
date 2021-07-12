@@ -1,4 +1,4 @@
-## <a href="https://presonal-dairy.netlify.app/">Overview</a>
+## <a href="https://personal-dairy.netlify.app/">Overview</a>
 #### Create a website which store our text info, for saving info we used <a href="https://firebase.google.com/docs/database">firebase</a>
 <img src="https://github.com/kr123Manish/presonal_dairy/blob/main/1.jpg"></img>
 <img src="https://github.com/kr123Manish/presonal_dairy/blob/main/2.jpg"></img>
@@ -253,5 +253,5 @@ audio2.src="2.mp3";
         audio2.play();
     } 
   ```      
-  ### <a href="https://presonal-dairy.netlify.app/">Take demo..</a> 
+  ### <a href="https://personal-dairy.netlify.app/">Want to use..</a> 
   #### If you liked it don't forget to :star: it. 
