@@ -4,7 +4,7 @@
 <img src="https://github.com/kr123Manish/presonal_dairy/blob/main/2.jpg"></img>
 <img src="https://github.com/kr123Manish/presonal_dairy/blob/main/3.jpg"></img>
 ### Note: This website is not 100% responsive, so please prefer laptop or pc for better experience. 
-### <a href="https://presonal-dairy.netlify.app/">Take demo..</a> 
+### <a href="https://personal-dairy.netlify.app/">Take demo..</a> 
 ### Prerequisite
 - HTML-5
 - CSS
